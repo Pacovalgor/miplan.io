@@ -23,7 +23,7 @@
 					<key>page0 - file:///Applications/XAMPP/xamppfiles/htdocs/miplan/</key>
 					<dict>
 						<key>CreationDate</key>
-						<date>2017-11-13T12:25:46Z</date>
+						<date>2017-11-14T11:23:31Z</date>
 						<key>DigestAlgorithm</key>
 						<string>MD5</string>
 						<key>PageDigests</key>
@@ -32,11 +32,11 @@
 							<dict>
 								<key>Digest</key>
 								<data>
-								VRAi+8fnJplx
-								Roq2Ygj0OA==
+								M7W4B6inJumR
+								ddGkmp5uCQ==
 								</data>
 								<key>Size</key>
-								<integer>12018</integer>
+								<integer>12043</integer>
 							</dict>
 							<key>rw_common/images/miplan_old.png</key>
 							<dict>
@@ -4653,13 +4653,13 @@
 					<key>ThemeName</key>
 					<string>Tesla</string>
 					<key>TitleText</key>
-					<string>storytellers</string>
+					<string>miplan</string>
 					<key>TitleTextUsed</key>
 					<false/>
 					<key>UniqueBackupName</key>
 					<string>AC70D401-4500-4EE5-A0E1-2B629DFAB5F8_rwbackup</string>
 					<key>UserAgentResizingPreset</key>
-					<integer>0</integer>
+					<integer>3</integer>
 					<key>WantsXMLSiteMap</key>
 					<true/>
 					<key>WebClipIconUsed</key>
