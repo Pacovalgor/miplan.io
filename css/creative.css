@@ -161,7 +161,12 @@ header.masthead {
   @media (min-width: 1200px) {
     header.masthead h1 {
       font-size: 4rem; } }
-
+.logo img {  
+  position: relative;  
+  top: 50%;
+  max-height: 90%;  
+  width: auto;
+}
 .service-box {
   max-width: 400px; }
 
